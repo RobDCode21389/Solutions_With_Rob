@@ -21,5 +21,5 @@ Here are my latest completed algorithmic challenges, executed cleanly and commit
 
 ---
 📫 **Connect with me:** 
-* **Portfolio:** robertdavis-front-end-developer.netlify.app
+* **Portfolio:** [robertdavis-front-end-developer.netlify.app](https://robertdavis-front-end-developer.netlify.app/)
 * **LinkedIn:** https://www.linkedin.com/in/robert-davis-7683b03b9/
