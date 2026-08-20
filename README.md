@@ -14,6 +14,7 @@ Here are my latest completed algorithmic challenges, executed cleanly and commit
 * **LeetCode 2620 / 2732: Counter** – Implementing robust functional closures to maintain isolated internal state.
 * **LeetCode 2635: Apply Transform Over Each Element in Array** – Rebuilding fundamental high-order array mapping algorithms from scratch.
 * **LeetCode 2661 / 2761: Array Reduce Transformation** – Executing functional reductions over arrays without relying on native built-in prototypes.
+* **LeetCode 2731 / 2762: Memoized** – Executing a function fn, return a memoized version of that function.
 
 ## 📈 Roadmap & Ongoing Focus
 * Pushing fresh JavaScript algorithmic solutions weekly.
